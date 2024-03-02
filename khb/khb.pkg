@@ -29,8 +29,8 @@ d SJ: st0236
 d 
 f khb.ado
 f khbtab.ado
-f ../l/lkhb.mata
-f ../l/lkhb.mlib
+f lkhb.mata
+f lkhb.mlib
 f khb.sthlp
 f khbtab.sthlp
-f ../d/dlsy_khb.dta
+f dlsy_khb.dta
