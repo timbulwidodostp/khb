@@ -1,6 +1,8 @@
 # khb
 Decomposition of effects in non-linear probabiltiy models using the KHB-method Use khb With STATA 18
 
+https://www.youtube.com/watch?v=sYrqQCV7uew
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
